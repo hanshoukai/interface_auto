@@ -1,0 +1,6 @@
+-
+  path: ?s=api/user/login&application=app&application_client_type=weixin
+  data:
+    accounts: huace_xm
+    pwd: 123456
+    type: username

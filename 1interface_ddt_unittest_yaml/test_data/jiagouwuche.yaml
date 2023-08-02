@@ -1,0 +1,12 @@
+-
+  path: ?s=api/cart/save&application=app&application_client_type=weixin
+  data:
+    goods_id: '2'
+    spec:
+      - type: 套餐
+        value: 套餐二
+      - type: 颜色
+        value: 银色
+      - type: 容量
+        value: 64G
+    stock: 1
